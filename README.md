@@ -1,3 +1,5 @@
+### Need help/support? Ask in one of BSMG's support channels for Quest, or join my [Discord server](https://discord.gg/JxWFE37Dsc)!
+
 # MorePrecisePlayerHeight
 
 Let's you view your own height... but more precise.
